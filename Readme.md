@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="900" height="500" src="https://github.com/JOSUERV99/JOSUERV99/blob/main/wallpaper2023_.png?raw=true">
+  <img width="900" height="500" src="https://github.com/GabrielAndresCruz/GabrielAndresCruz/blob/main/BackgroundHeader.png">
 </p>
 
 <!-- WELCOME ANIMATION -->
