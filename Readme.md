@@ -7,7 +7,7 @@
  -->
  
 <!-- WELCOME ANIMATION -->
-<hr>  
+<!-- hr-->  
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Karla&size=28&duration=4999&pause=4999&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile!" alt="Greeting">
   </p>
