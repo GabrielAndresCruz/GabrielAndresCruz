@@ -1,9 +1,11 @@
 
 
+<!-- WELCOME IMAGE
 <p align="center">
   <img width="900" height="500" src="https://github.com/GabrielAndresCruz/GabrielAndresCruz/blob/main/BackgroundHeader.png">
 </p>
-
+ -->
+ 
 <!-- WELCOME ANIMATION -->
 <hr>  
   <p align="center">
